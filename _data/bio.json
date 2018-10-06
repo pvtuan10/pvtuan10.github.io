@@ -14,14 +14,14 @@
     },
     "profiles": [
       {
+        "network": "linkedin",
+        "username": "phamvutuan",
+        "url": "http://linkedin.com/in/phamvutuan"
+      },
+      {
         "network": "github",
         "username": "pvtuan10",
         "url": "http://github.com/pvtuan10"
-      },
-      {
-        "network": "linkedin",
-        "username": "pvtuan10",
-        "url": "http://linkedin.com/in/phamvutuan"
       },
       {
         "network": "twitter",
