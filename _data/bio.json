@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Pham Vu Tuan",
+    "name": "PHAM VU TUAN",
     "label": "Software Engineer",
     "picture": "https://pvtuan10.github.io/images/profile.jpeg",
     "email": "phamvutuan10@gmail.com",
@@ -10,9 +10,7 @@
     "location": {
       "address": "4 Queen's Rd",
       "postalCode": "260004",
-      "city": "Singapore",
-      "countryCode": "SG",
-      "region": "Singapore"
+      "city": "Singapore"
     },
     "profiles": [
       {
@@ -29,76 +27,120 @@
         "network": "twitter",
         "username": "pvtuan10",
         "url": "http://twitter.com/pvtuan10"
-      },
+      }
     ]
   },
-  "interests": [
+  "education": [
     {
-      "name": "software development",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "distributed systems",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "scalability",
-      "keywords": [
-      ]
+      "institution": "Nanyang Technological University",
+      "area": "Computer Science.",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2014",
+      "startMonth": "Aug",
+      "endDate": "2018",
+      "endMonth": "Jun",
+      "gpa": "4.67/5.00.",
+      "honor": "First Class Honours (Highest Distinction)",
+      "award": "Dean’s List AY2016-17 – Top 5% of the cohort with excellent academic performance."
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
         "Java",
         "Python",
         "Go",
-        "JavaScript"
+        "JavaScript."
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Software Tools & Framework",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
+        "Django",
+        "Docker",
+        "Kafka",
+        "Git",
+        "RabbitMQ",
+        "ReactJS."
       ]
-    }
-  ],
-  "education": [
+    },
     {
-      "institution": "Nanyang Technological University",
-      "area": "Computer Science",
-      "studyType": "Bachelor of Engineering",
-      "startDate": "2014-08",
-      "endDate": "2018-06",
-      "gpa": "4.67/5.00",
-      "courses": [
+      "name": "Data Storage",
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "Redis."
+      ]
+    },
+    {
+      "name": "Language Proficiency",
+      "level": "",
+      "keywords": [
+        "English (professional working proficiency)",
+        "Vietnamese (native)."
       ]
     }
   ],
   "work": [
     {
-      "company": "SEA Group",
+      "company": "Sea Group",
       "position": "Software Engineer",
-      "website": "https://www.seagroup.com/home",
       "startDate": "2018-08-06",
+      "startMonth": "Aug",
       "endDate": "Present",
-      "summary": "Software Engineer",
+      "endMonth": "",
+      "summary": "",
       "highlights": [
+        "Work as a backend software engineer in Payment team at Shopee.",
+        "Develop and maintain ShopeePay."
       ]
     },
+    {
+      "company": "Viki Inc.",
+      "position": "Software Engineer Intern",
+      "startDate": "2017",
+      "startMonth": "Sep",
+      "endDate": "2018",
+      "endMonth": "Apr",
+      "summary": "",
+      "highlights": [
+        "Work in Platform team to develop and maintain global streaming web services.",
+        "Build and develop core services using a variety of technologies such as Golang, Redis, RabbitMQ, PostgreSQL, Docker."
+      ]
+    },
+    {
+      "company": "Visa Inc.",
+      "position": "Software Engineer Intern",
+      "startDate": "2017",
+      "startMonth": "May",
+      "endDate": "2017",
+      "endMonth": "Jul",
+      "summary": "",
+      "highlights": [
+        "Worked in Global Dispute Processing, a core processing team under Visa Network Processing division.",
+        "Developed an internal tool to help monitoring of Oracle Coherence Distributed Cache and CloverETL jobs in development/QA/production servers.",
+        "Gained hands-on experience in software development using Spring and ReactJS."
+      ]
+    },
+    {
+      "company": "Paypal Singapore",
+      "position": "Software Engineering Intern",
+      "startDate": "2016",
+      "startMonth": "Aug",
+      "endDate": "2016",
+      "endMonth": "Dec",
+      "summary": "",
+      "highlights": [
+        "Migrated codebase from Helix framework to Raptor framework – PayPal’s customized Spring framework to develop Java RESTful Web Services.",
+        "Developed and maintained the web server written in Django framework.",
+        "Migrated functional tests for bank confirmation and bank authorization from C++ API to Java API using TestNG framework."
+      ]
+    }
   ],
   "volunteer": [
-  ],
-  "awards": [
-  ],
-  "references": [
   ]
 }

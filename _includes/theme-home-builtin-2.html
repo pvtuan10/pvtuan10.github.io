@@ -18,11 +18,6 @@
     <p class="">
       {{ site.data.bio.basics.summary }}
     </p>
-    <p>Interests:
-      {% for interest in site.data.bio.interests %}
-        {{ interest.name }}{% if forloop.last != true %}, {% endif %}
-      {% endfor %}
-    </p>
     <p style="text-align: center">
       {% include home-network-links.html %}
     </p>
@@ -31,7 +26,7 @@
         <button class="ui basic button">Projects ({{ num_projects }})</button>
       </a>
       <a href="{{ site.baseurl}}/essays/">
-        <button class="ui basic button">Essays ({{ num_essays }})</button>
+        <button class="ui basic button">Blogs ({{ num_essays }})</button>
       </a>
       <a href="{{ site.baseurl}}/bio/">
         <button class="ui basic button">{{ site.bio-page-label }}</button>
