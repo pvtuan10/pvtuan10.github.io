@@ -136,11 +136,38 @@
       "summary": "",
       "highlights": [
         "Migrated codebase from Helix framework to Raptor framework – PayPal’s customized Spring framework to develop Java RESTful Web Services.",
-        "Developed and maintained the web server written in Django framework.",
+        "Cleaned up legacy service calls from Financial Instruments Management Web Service.",
         "Migrated functional tests for bank confirmation and bank authorization from C++ API to Java API using TestNG framework."
       ]
     }
   ],
-  "volunteer": [
+  "projects": [
+    {
+      "name": "Jenkins Open Source Developer",
+      "position": "Developer",
+      "startDate": "2018",
+      "startMonth": "Aug",
+      "endDate": "Present",
+      "endMonth": "",
+      "summary": "",
+      "highlights": [
+        "Contribute to various areas in Jenkins: core, infra, remoting and plugins.",
+        "Maintain Remoting Kafka Plugin - A plugin to helps connect agents to Jenkins master over Kafka."
+      ]
+    },
+    {
+      "name": "Google Summer of Code 2018",
+      "position": "Student Developer",
+      "startDate": "2018",
+      "startMonth": "May",
+      "endDate": "2018",
+      "endMonth": "Aug",
+      "summary": "",
+      "highlights": [
+        "Got selected as Student Developer in Google Summer of Code 2018 to work in Jenkins organization.",
+        "Developed Remoting Kafka Plugin - A new Jenkins plugin to helps connect agents to Jenkins master over Kafka.",
+        "Presented Remoting Kafka Plugin at DevOps World | Jenkins World 2018 in San Francisco."
+      ]
+    }
   ]
 }
