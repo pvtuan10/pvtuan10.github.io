@@ -61,9 +61,8 @@
       "keywords": [
         "Django",
         "Docker",
-        "Kafka",
         "Git",
-        "RabbitMQ",
+        "Maven",
         "ReactJS."
       ]
     },
@@ -74,6 +73,14 @@
         "MySQL",
         "PostgreSQL",
         "Redis."
+      ]
+    },
+    {
+      "name": "Message Broker",
+      "level": "",
+      "keywords": [
+        "Apache Kafka",
+        "RabbitMQ."
       ]
     },
     {
@@ -96,7 +103,7 @@
       "summary": "",
       "highlights": [
         "Work as a backend software engineer in Payment team at Shopee.",
-        "Develop and maintain Shopee Payment Module to integrate multiple payment solutions into Shopee platform."
+        "Develop, maintain Shopee Payment Module to integrate multiple payment solutions into Shopee platform."
       ]
     },
     {
@@ -109,7 +116,7 @@
       "summary": "",
       "highlights": [
         "Work in Platform team to develop and maintain global streaming web services.",
-        "Build and develop core services using a variety of technologies such as Golang, Redis, RabbitMQ, PostgreSQL, Docker."
+        "Build, develop core services using a variety of technologies such as Go, Redis, RabbitMQ, PostgreSQL, Docker."
       ]
     },
     {
@@ -127,7 +134,7 @@
       ]
     },
     {
-      "company": "Paypal Singapore",
+      "company": "PayPal Singapore",
       "position": "Software Engineering Intern",
       "startDate": "2016",
       "startMonth": "Aug",
@@ -137,13 +144,13 @@
       "highlights": [
         "Migrated codebase from Helix framework to Raptor framework – PayPal’s customized Spring framework to develop Java RESTful Web Services.",
         "Cleaned up legacy service calls from Financial Instruments Management Web Service.",
-        "Migrated functional tests for bank confirmation and bank authorization from C++ API to Java API using TestNG framework."
+        "Migrated functional tests from C++ API to Java API using TestNG framework."
       ]
     }
   ],
   "projects": [
     {
-      "name": "Jenkins Open Source Developer",
+      "name": "Open Source Developer - Jenkins Project",
       "position": "Developer",
       "startDate": "2018",
       "startMonth": "Aug",
@@ -152,11 +159,11 @@
       "summary": "",
       "highlights": [
         "Contribute to various areas in Jenkins: core, infra, remoting and plugins.",
-        "Maintain Remoting Kafka Plugin - A plugin to helps connect agents to Jenkins master over Kafka."
+        "Maintain Remoting Kafka Plugin - Jenkins plugin that helps connecting agents to Jenkins master over Kafka."
       ]
     },
     {
-      "name": "Google Summer of Code 2018",
+      "name": "Google Summer of Code 2018 - Jenkins Project",
       "position": "Student Developer",
       "startDate": "2018",
       "startMonth": "May",
@@ -165,7 +172,7 @@
       "summary": "",
       "highlights": [
         "Got selected as Student Developer in Google Summer of Code 2018 to work in Jenkins organization.",
-        "Developed Remoting Kafka Plugin - A new Jenkins plugin to helps connect agents to Jenkins master over Kafka.",
+        "Developed Remoting Kafka Plugin - Jenkins plugin that helps connecting agents to Jenkins master over Kafka.",
         "Presented Remoting Kafka Plugin at DevOps World | Jenkins World 2018 in San Francisco."
       ]
     }
