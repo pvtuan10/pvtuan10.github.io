@@ -15,6 +15,6 @@ If you are reading this, I hope you found my site enjoyable, the site is built u
 
 To sum up, this is (probably) best picture of me in recent years when I visited San Francisco last summer.
 
-![PhamVuTuan](../images/PhamVuTuan.jpg)
+<img src="../images/PhamVuTuan.jpg" style="max-width:100%"/>
 
 Cheers!
