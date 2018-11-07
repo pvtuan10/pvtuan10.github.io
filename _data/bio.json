@@ -102,8 +102,9 @@
       "endMonth": "",
       "summary": "",
       "highlights": [
-        "Work as a backend software engineer in Payment team at Shopee.",
-        "Develop, maintain Shopee Payment Module to integrate multiple payment solutions into Shopee platform."
+        "Work as a back-end software engineer at Shopee - A leading e-commerce platform in Greater Southeast Asia.",
+        "Develop and maintain Shopee Payment Module to integrate multiple payment solutions into Shopee platform.",
+        "Maintain core business logic (Payment & Checkout) using Django, MySQL, Redis, RabbitMQ, Mesos, Docker."
       ]
     },
     {
@@ -115,8 +116,8 @@
       "endMonth": "Apr",
       "summary": "",
       "highlights": [
-        "Work in Platform team to develop and maintain global streaming web services.",
-        "Build, develop core services using a variety of technologies such as Go, Redis, RabbitMQ, PostgreSQL, Docker."
+        "Worked in Platform team to develop and maintain global streaming web services.",
+        "Built, developed and maintained core services using Go, Redis, RabbitMQ, PostgreSQL, Docker."
       ]
     },
     {
@@ -150,7 +151,7 @@
   ],
   "projects": [
     {
-      "name": "Open Source Developer - Jenkins Project",
+      "name": "Jenkins Project - Open Source Developer",
       "position": "Developer",
       "startDate": "2018",
       "startMonth": "Aug",
@@ -163,7 +164,7 @@
       ]
     },
     {
-      "name": "Google Summer of Code 2018 - Jenkins Project",
+      "name": "Jenkins Project - Google Summer of Code 2018 Participant",
       "position": "Student Developer",
       "startDate": "2018",
       "startMonth": "May",
